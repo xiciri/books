@@ -1,1 +1,1 @@
-web:gunicorn 'confic.wsgi'
+web: gunicorn confic.wsgi
